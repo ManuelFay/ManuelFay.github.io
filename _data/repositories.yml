@@ -1,12 +1,8 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - ManuelFay
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - ManuelFay/AlphaConnect4
+  - ManuelFay/ImageSearcher
+  - ManuelFay/NumpyDeepLearning
+  - ManuelFay/geoguessr-bot

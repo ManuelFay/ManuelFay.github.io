@@ -2,11 +2,11 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: TA'ed in a few course
 nav: true
 nav_order: 5
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+I held teaching assistant jobs in various Bachelor and Master level courses.
 
-Organize your courses by years, topics, or universities, however you like!
+Most recently, I assisted Pierre Colombo for Natural Language Processing courses at ENSAE and CentraleSupéléc.
