@@ -1,24 +1,24 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
-    "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "name": "Manuel Faysse",
+    "label": "PhD Candidate",
+    "image": "prof_pic.png",
+    "email": "manuel [dot] faysse [at] centralesupelec [dot] fr",
+    "phone": "",
+    "url": "https://github.com/ManuelFay",
+    "summary": "PhD Candidate, specialized in NLP with both industry and academic backgrounds",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "",
+      "postalCode": "",
+      "city": "Paris",
+      "countryCode": "FR",
+      "region": ""
     },
     "profiles": [
       {
         "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "username": "ManuelFay",
+        "url": "https://twitter.com/ManuelFay"
       }
     ]
   },
