@@ -1,32 +1,32 @@
 ---
 layout: post
-title: A long announcement with details
-date: 2015-11-07 16:11:00-0400
+title: Paper accepted at EMNLP 2023 !
+date: 2023-11-07 16:11:00-0400
 inline: false
 related_posts: false
 ---
 
-Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
+LinkedIn post in French detailing the work !
 
 ***
 
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
+Les Large Language Models #LLMs sont partout...
+➡️ Entre les modèles d'OpenAI (GPT4, GPT3.5), leurs concurrents propriétaires (Anthropic, Google, Cohere) et la panoplie de modèles libres d'accès qui émergent (Mistral, Llama2, Yi), comment faire le bon choix pour son cas d'usage ?
 
-#### Hipster list
-<ul>
-    <li>brunch</li>
-    <li>fixie</li>
-    <li>raybans</li>
-    <li>messenger bag</li>
-</ul>
+Il y a évidemment des considérations pratiques qui entrent en jeu (souveraineté des données, coût d'hébergement, vitesse d'inférence) mais le plus important reste souvent la performance ! Et alors que les modèles génératifs d'il y a quelques années étaient souvent spécialisés sur une unique tâche (traduction, résumé) qu'on arrivait (plutôt) bien à évaluer automatiquement, les modèles actuels sont justement intéressants car ils sont généralistes et capable de répondre à des instructions arbitraires !
 
-Hoodie Thundercats retro, tote bag 8-bit Godard craft beer gastropub. Truffaut Tumblr taxidermy, raw denim Kickstarter sartorial dreamcatcher. Quinoa chambray slow-carb salvia readymade, bicycle rights 90's yr typewriter selfies letterpress cardigan vegan.
 
-***
+Pour évaluer la qualité de génération de ces LLMs automatiquement, il faut donc trouver des métriques d'évaluation automatique qui:
 
-Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxidermy reprehenderit fap distillery master cleanse locavore. Est anim sapiente leggings Brooklyn ea. Thundercats locavore excepteur veniam eiusmod. Raw denim Truffaut Schlitz, migas sapiente Portland VHS twee Bushwick Marfa typewriter retro id keytar.
+1️⃣ sont fortement corrélées avec le jugement humain
 
-> We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
-> —Anais Nin
+2️⃣ notent sur une échelle cohérente quelle que soit la tâche
 
-Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.
+3️⃣ sont auto-portantes et ne nécessitent pas d'exemple de réponse correcte pour calculer leur notes...
+
+
+💡 C'est le sujet de l'article qu'on présentera à Singapour début décembre pour #emnlp2023, la meilleure conférence du domaine ! On trouve notamment que se servir d'autres LLMs en tant qu'évaluateurs présente un réel interet par rapport aux solutions actuelles, ce qui nous permet dans un deuxième temps de tirer plein d'enseignements sur les processus d'entrainement optimaux pour adapter des LLMs open-source à des cas d'usage industriels !
+
+Pour ceux qui veulent rentrer davantage dans les détails techniques, je mets les liens en commentaire de l'article et de mon Twitter !
+
+Travail effectué avec Pierre Colombo Gautier Viaud Celine Hudelot, le premier article de mon doctorat au sein de CentraleSupélec et ILLUIN Technology !
