@@ -1,12 +1,12 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Manuel Faÿsse
-    - name: Date of Birth
-      value: December 22, 1997
-    - name: Languages
-      value: French, English, Spanish
+# - title: General Information
+#  type: map
+#  contents:
+#    - name: Full Name
+#      value: Manuel Faysse
+#    - name: Date of Birth
+#      value: December 22, 1997
+#    - name: Languages
+#      value: French, English, Spanish
 
 - title: Education
   type: time_table
@@ -15,18 +15,24 @@
       institution: Université Paris-Saclay, CentraleSupéléc
       year: 2026
       description:
-        - Natural Language Processing
-        - Large Language Models
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: MSc in Robotics & Data Science
+        - Large Language Models Evaluation
+        - Bilingual LLM Pretraining
+        - LLM Memorization
+        - Confidence estimation for Neural Information Retrieval
+
+    - title: MSc
       institution: EPFL, Lausanne, Switzerland
       year: 2021
       description:
-        - Description 1.
-        - Description 2.
+        - Robotics, Systems and Control
+        - Data Science and Machine Learning
+
+    - title: Bachelor Thesis Student @ Center For Automation and Robotics - UPM
+      institution: Universidad Politecnica de Madrid, Spain
+      year: 2018
+      description:
+        - Computer Vision
+        - Underwater Robotics
 
 - title: Experience
   type: time_table
@@ -36,7 +42,7 @@
       year: 2021 - 2023
       description:
         - Large Language Models
-        - Document Layout Detection
+        - Multimodal models for Document ML
         - title: Information Retrieval
           contents:
             - Dense Embeddings
@@ -49,24 +55,6 @@
         - Computational Privacy
         - Privacy ML
 
-    - title: Research Scientist (Intern)
-      institution: Illuin Technology, Paris, France.
-      year: 2020
-
-    - title: Student Researcher @ LTS-4
-      institution: EPFL, Lausanne, Switzerland
-      year: 2020
-      description:
-        - Computer Vision
-        - Underwater Robotics
-
-
-    - title: Bachelor Thesis Student @ Center For Automation and Robotics - UPM
-      institution: Universidad Politecnica de Madrid, Spain
-      year: 2018
-      description:
-        - Computer Vision
-        - Underwater Robotics
 
 
 # - title: Honors and Awards
