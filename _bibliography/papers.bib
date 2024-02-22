@@ -8,6 +8,7 @@
       eprint={2402.00786},
       archivePrefix={arXiv},
       primaryClass={cs.CL},
+      preview = {croissant.png},
       selected = {true},
       abstract = "We introduce CroissantLLM, a 1.3B language model pretrained on a set of 3T English and French tokens, to bring to the research and industrial community a high-performance, fully open-sourced bilingual model that runs swiftly on consumer-grade local hardware. To that end, we pioneer the approach of training an intrinsically bilingual model with a 1:1 English-to-French pretraining data ratio, a custom tokenizer, and bilingual finetuning datasets. We release the training dataset, notably containing a French split with manually curated, high-quality, and varied data sources. To assess performance outside of English, we craft a novel benchmark, FrenchBench, consisting of an array of classification and generation tasks, covering various orthogonal aspects of model performance in the French Language. Additionally, rooted in transparency and to foster further Large Language Model research, we release codebases, and dozens of checkpoints across various model sizes, training data distributions, and training steps, as well as fine-tuned Chat models, and strong translation models. We evaluate our model through the FMTI framework, and validate 81 % of the transparency criteria, far beyond the scores of even most open initiatives. This work enriches the NLP landscape, breaking away from previous English-centric work in order to strengthen our understanding of multilinguality in language models.",
 }
@@ -19,6 +20,7 @@
       eprint={2402.09363},
       archivePrefix={arXiv},
       primaryClass={cs.CL},
+      preview = {spider-web.png},
     abstract = "Questions of fair use of copyright-protected content to train Large Language Models (LLMs) are being very actively debated. Document-level inference has been proposed as a new task: inferring from black-box access to the trained model whether a piece of content has been seen during training. SOTA methods however rely on naturally occurring memorization of (part of) the content. While very effective against models that memorize a lot, we hypothesize--and later confirm--that they will not work against models that do not naturally memorize, e.g. medium-size 1B models. We here propose to use copyright traps, the inclusion of fictitious entries in original content, to detect the use of copyrighted materials in LLMs with a focus on models where memorization does not naturally occur. We carefully design an experimental setup, randomly inserting traps into original content (books) and train a 1.3B LLM. We first validate that the use of content in our target model would be undetectable using existing methods. We then show, contrary to intuition, that even medium-length trap sentences repeated a significant number of times (100) are not detectable using existing methods. However, we show that longer sequences repeated a large number of times can be reliably detected (AUC=0.75) and used as copyright traps. We further improve these results by studying how the number of times a sequence is seen improves detectability, how sequences with higher perplexity tend to be memorized more, and how taking context into account further improves detectability.",
 }
 
@@ -29,6 +31,7 @@
       eprint={2402.12997},
       archivePrefix={arXiv},
       primaryClass={cs.IR},
+      preview = {loupe.png},
     abstract = "Neural Information Retrieval (NIR) has significantly improved upon heuristic-based IR systems. Yet, failures remain frequent, the models used often being unable to retrieve documents relevant to the user's query. We address this challenge by proposing a lightweight abstention mechanism tailored for real-world constraints, with particular emphasis placed on the reranking phase. We introduce a protocol for evaluating abstention strategies in a black-box scenario, demonstrating their efficacy, and propose a simple yet effective data-driven mechanism. We provide open-source code for experiment replication and abstention implementation, fostering wider adoption and application in diverse contexts.",
 }
 
@@ -50,7 +53,7 @@
     doi = "10.18653/v1/2023.emnlp-main.559",
     pages = "9033--9048",
     abstract = "Instruction Fine-Tuning (IFT) is a powerful paradigm that strengthens the zero-shot capabilities of Large Language Models (LLMs), but in doing so induces new evaluation metric requirements. We show LLM-based metrics to be well adapted to these requirements, and leverage them to conduct an investigation of task-specialization strategies, quantifying the trade-offs that emerge in practical industrial settings. Our findings offer practitioners actionable insights for real-world IFT model deployment.",
-    preview={brownian-motion.gif},
+    preview={gavel.png},
     selected = {true},
 }
 
@@ -59,4 +62,5 @@
   author={Faysse, Manuel},
   year={2020},
   publisher={EPFL},
+  preview={authorization.png},
 }
