@@ -9,8 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   address: >
-    <p>PhD Candidate @ CentraleSupélec</p>
-    <p>Lead Research Scientist @ Illuin Technology</p>
+    <p>PhD Candidate</p>
+    <p>Lead Research Scientist</p>
     <p>Paris, France</p>
 
 news: true  # includes a list of news items
