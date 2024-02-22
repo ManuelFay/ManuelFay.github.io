@@ -7,7 +7,7 @@ nav: true
 nav_order: 5
 ---
 
-I truly enjoying sharing knowledge with others and had the opportunity to work as a teaching assistant in various Bachelor and Master level courses
+I truly enjoy sharing knowledge with others and had the opportunity to work as a teaching assistant in various Bachelor and Master level courses
 during my time at EPFL. No real logic here, but I TA'd for the following courses:
 - Newtonian Mechanics (3 years)
 - Thermodynamics
