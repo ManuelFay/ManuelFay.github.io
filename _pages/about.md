@@ -19,12 +19,12 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hey ! I am Manu, a 2nd year PhD student working on applied NLP and ML Privacy research, but curious about (way too) many other things !
+Hey! I am Manu, a 2nd year PhD student working on applied NLP and ML Privacy research, but curious about (way too) many other things!
 
 After pretraining at EPFL with a master's in Robotics and Data Science, and an awesome research stint with the Computational Privacy Group at Imperial College London,
 I worked as a Research Scientist at Illuin Technology on various NLP use cases, notably deep multimodal models for Document ML and neural information retrieval.
 
-I am now in my academic finetuning phase as a PhD student at CentraleSupélec (Université Paris Saclay), supervised by the distilled knowledge of Pierre Colombo !
+I am now in my academic finetuning phase as a PhD student at CentraleSupélec (Université Paris Saclay), supervised by the distilled knowledge of Pierre Colombo.
 My research focuses on industrial applications of large language models, with published works in instruction-tuned model automatic evaluation, 
 bilingual Large Language Model pretraining, as well as model memorization, and confidence estimation techniques for neural information retrieval.
 
