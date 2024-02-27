@@ -6,8 +6,6 @@ inline: false
 related_posts: false
 ---
 
-LinkedIn post in French detailing the work !
-
 ***
 
 Les Large Language Models #LLMs sont partout...
