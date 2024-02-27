@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-15 07:59:00-0400
 title: Started my PhD at MICS and Illuin Technology !
-inline: true
+inline: false
 related_posts: false
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: Gave an invited talk at DGFiP and DINUM
 date: 2024-02-13 07:59:00-0400
-inline: true
+inline: false
 related_posts: false
 ---
 
