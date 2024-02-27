@@ -23,8 +23,12 @@ These past months, I've been busy baking a special sort of Croissant 🥐 with a
 
 Many more things to say, for those interested, I recommend checking out:
 
-🗞️ The blogpost: https://lnkd.in/eknyEnRR
-📖 The 45 page report with lots of gems: https://lnkd.in/eM2Yx6ZE
-🤖 Models, Data, Demo: https://lnkd.in/eJ2Fvt25
+
+🗞️ [The blogpost](https://huggingface.co/blog/manu/croissant-llm-blog)
+
+📖 [The 45 page report with lots of gems](https://arxiv.org/abs/2402.00786)
+
+🤖 [Models, Data, Demo](https://huggingface.co/croissantllm)
+
 
 Work done as part of my PhD with CentraleSupélec and ILLUIN Technology with many awesome co-authors, special shout-out to Patrick Fernandes , Nuno Miguel Guerreiro , António Loison, Duarte Alves and my hyperactive supervisor Pierre Colombo !
