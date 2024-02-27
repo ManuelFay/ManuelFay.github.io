@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>On a gradient descent journey to optimize my knowledge about NLP.</a>
+subtitle: <a href='#'>Gradient descending my way through life.</a>
 
 profile:
   align: right
