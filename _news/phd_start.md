@@ -5,4 +5,9 @@ inline: true
 related_posts: false
 ---
 
-Started my PhD at MICS and Illuin Technology ! :sparkles: :smile:
+Started my PhD at MICS and Illuin Technology !
+
+***
+
+I'll be working with Pierre Colombo and Illuin Technology on various NLP topics with a particular focus on industrial applications of LLMs. 
+Excited to start!

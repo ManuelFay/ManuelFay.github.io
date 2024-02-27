@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Paper accepted at EMNLP 2023 !
+title: Paper accepted at EMNLP 2023 (Oral) !
 date: 2023-11-07 16:11:00-0400
 inline: false
 related_posts: false
