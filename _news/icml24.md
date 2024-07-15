@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Accepted work at ICML 2024
+title: Accepted paper at ICML 2024
 date: 2024-05-04 07:59:00-0400
-inline: false
+inline: true
 related_posts: false
 ---
 

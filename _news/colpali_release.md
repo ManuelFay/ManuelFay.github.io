@@ -1,6 +1,6 @@
 ---
 layout: post
-title: We release ColPali !
+title: We release ColPali - Efficient Document Retrieval with Vision Language Models 👀 !
 date: 2024-06-21 07:59:00-0400
 inline: false
 related_posts: false
@@ -26,4 +26,4 @@ Our newest research project is out, and aims to solve one of the biggest current
 👀 The model: https://lnkd.in/eed2eB3F
 📰 The blogpost: https://lnkd.in/eJg5Mu-d
 
-Joint work with Hugues Sibille Tony Wu Bilel Omrani Gautier Viaud from ILLUIN Technology, and Celine Hudelot + Pierre Colombo from CentraleSupélec, with compute funding from the amazing team at CINES !
+Joint work with Hugues Sibille, Tony Wu, Bilel Omrani, Gautier Viaud from ILLUIN Technology, and Celine Hudelot + Pierre Colombo from CentraleSupélec, with compute funding from the amazing team at CINES !
