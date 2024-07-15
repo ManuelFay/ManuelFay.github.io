@@ -2,10 +2,12 @@ github_users:
   - ManuelFay
 
 github_repos:
+  - illuin-tech/colpali
+  - illuin-tech/vidore-benchmark
+  - ManuelFay/llm-data-hub
+  - ManuelFay/IFTEval
   - ManuelFay/AlphaConnect4
   - ManuelFay/ImageSearcher
   - ManuelFay/NumpyDeepLearning
-  - ManuelFay/geoguessr-bot
-  - illuin-tech/colpali
-  - illuin-tech/vidore-benchmark
   - CoderPat/croissant-llm-training
+
