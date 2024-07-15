@@ -6,6 +6,4 @@ inline: true
 related_posts: false
 ---
 
-***
-
 Our work on [Copyright Traps for Large Language Models](https://arxiv.org/abs/2402.09363) has been accepted at ICML 2024 !

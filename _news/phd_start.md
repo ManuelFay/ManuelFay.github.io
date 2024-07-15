@@ -6,7 +6,5 @@ inline: true
 related_posts: false
 ---
 
-***
-
 I'll be working with Pierre Colombo and Illuin Technology on various NLP topics with a particular focus on industrial applications of LLMs. 
 Excited to start!
