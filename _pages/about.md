@@ -25,10 +25,14 @@ After pretraining at EPFL with a master's in Robotics and Data Science, and an a
 I worked as a Research Scientist at Illuin Technology on various NLP use cases, notably deep multimodal models for Document ML and neural information retrieval.
 
 I am now in my academic finetuning phase as a PhD student at CentraleSupélec (Université Paris Saclay), supervised by the distilled knowledge of Pierre Colombo.
-My research focuses on industrial applications of large language models, with published works in instruction-tuned model automatic evaluation, 
-bilingual Large Language Model pretraining, as well as model memorization, and confidence estimation techniques for neural information retrieval.
+My research focuses on industrial applications of large language models, with papers on instruction model automatic evaluation, 
+bilingual Large Language Model pretraining (CroissantLLM), multimodal information retrieval (ColPali), as well as model memorization, 
+or confidence estimation techniques for neural information retrieval.
+
+My work has been published in top international conferences (ICML, EMNLP), has been featured multiple times in the press, 
+gave way to invited talks (Meta, IBM, Naver, French Government agencies, etc.) and is currently used in production for various awesome applications.
 
 My PhD is funded through the CIFRE French program in collaboration with Illuin Technology, where I currently
 hold a Lead Research Scientist position, and spend a minor share of my time advising and accompanying various R&D efforts in the LLM and Vision LLM space.
 
-Don't hesitate to contact me to discuss, or to inquire about potential collaborations or talks !
+Don't hesitate to contact me to discuss, or to inquire about potential collaborations or invited talks !
