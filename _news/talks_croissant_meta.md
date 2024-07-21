@@ -15,6 +15,6 @@ Event Highlights
 - 🛠️ Instruct Lab: IBM's open-source AI initiative, welcoming contributions to Large Language Models (LLMs).
 - 🎤 Parler-TTS: Hugging Face's lightweight text-to-speech model generating high-quality, natural-sounding speech in various styles.
 - 🤖 Llama: Meta's open-source LLM family supporting responsible innovation and scalability for generative AI projects.
-- 🥐 hashtag#CroissantLLM: A unique bilingual French-English Language Model expanding NLP boundaries.
+- 🥐 CroissantLLM: A unique bilingual French-English Language Model expanding NLP boundaries.
 
 [Aya's Linkedin post](https://www.linkedin.com/posts/aya-cherkaoui-maknassi-_aialliance-croissantllm-ai-activity-7198781746023145472-tSZx/)
