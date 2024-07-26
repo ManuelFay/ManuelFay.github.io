@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Gradient descending my way through life.</a>
+subtitle: <a href='#'>On a latent space odyssey.</a>
 
 profile:
   align: right
