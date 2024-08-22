@@ -29,8 +29,8 @@ My research focuses on industrial applications of large language models, with pa
 bilingual Large Language Model pretraining (CroissantLLM), multimodal information retrieval (ColPali), as well as model memorization, 
 or confidence estimation techniques for neural information retrieval.
 
-My work has been published in top international conferences (ICML, EMNLP), has been featured multiple times in the press, 
-gave way to invited talks (Meta, IBM, Naver, French Government agencies, etc.) and is currently used in production for various awesome applications.
+My work has been published in top international conferences (ICML, EMNLP), has been featured in the press (MIT Tech Review, Nature Magazine, Usine Digitale, Usine Nouvelle, etc.),
+gave way to invited talks (Meta, IBM, Naver, LlamaIndex, etc.) and is currently used in production for various awesome applications.
 
 My PhD is funded through the CIFRE French program in collaboration with Illuin Technology, where I currently
 hold a Lead Research Scientist position, and spend a minor share of my time advising and accompanying various R&D efforts in the LLM and Vision LLM space.
