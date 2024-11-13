@@ -18,6 +18,7 @@ during my time at EPFL. No real logic here, but I TA'd for the following courses
 - Applied Machine Learning
 
 Most recently during my PhD, I assisted Pierre Colombo in his Natural Language Processing courses at ENSAE and CentraleSupéléc.
+I also was a speaker at the Paris GenAI School in 2024, where I gave a lecture on the topic of language model pretraining.
 
 I also supervised students on various projects, ranging from Tech for Good Initiatives with UNESCO, or Health ML Hackathons, 
 to longer term internship supervision and managing student research projects.
