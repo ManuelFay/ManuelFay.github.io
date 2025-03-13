@@ -35,4 +35,4 @@ gave way to many invited talks (Meta, IBM, Naver, LlamaIndex, etc.) and has been
 My PhD is funded through the CIFRE French program in collaboration with [Illuin Technology](https://www.illuin.tech/en/), where I currently
 hold a Lead Research Scientist position, and spend a minor share of my time advising and accompanying various R&D efforts in the LLM and Vision LLM space.
 
-Don't hesitate to contact me to discuss, or to inquire about potential collaborations or invited talks !
+Don't hesitate to contact me to discuss, or to inquire about potential collaborations or invited talks!
