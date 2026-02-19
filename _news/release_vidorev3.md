@@ -1,7 +1,7 @@
 ---
 layout: post
 title: We release the "Vidore V3" dataset and paper.
-date: 2025-01-02 16:11:00-0400
+date: 2026-01-02 16:11:00-0400
 inline: false
 related_posts: false
 ---
