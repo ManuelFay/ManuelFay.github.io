@@ -390,6 +390,60 @@ footer.sticky-bottom {
   }
 }
 
+.repo {
+  a {
+    display: block;
+    width: 100%;
+  }
+
+  .repo-fallback {
+    display: none;
+    border: 1px solid var(--global-divider-color);
+    border-radius: 6px;
+    background: var(--global-card-bg-color);
+    color: var(--global-text-color);
+    padding: 1rem;
+    text-align: left;
+    min-height: 120px;
+    transition: border-color 0.2s ease, transform 0.2s ease;
+  }
+
+  .repo-fallback-title,
+  .repo-fallback-owner,
+  .repo-fallback-action {
+    display: block;
+  }
+
+  .repo-fallback-title {
+    color: var(--global-theme-color);
+    font-weight: 600;
+    font-size: 1rem;
+    margin-bottom: 0.25rem;
+    word-break: break-word;
+  }
+
+  .repo-fallback-owner {
+    color: var(--global-text-color-light);
+    font-size: 0.9rem;
+  }
+
+  .repo-fallback-action {
+    margin-top: 1.5rem;
+    font-size: 0.85rem;
+    color: var(--global-theme-color);
+  }
+
+  &.repo--fallback {
+    img {
+      display: none !important;
+    }
+
+    .repo-fallback {
+      display: block;
+    }
+  }
+}
+
 // Blog
 
 .header-bar {

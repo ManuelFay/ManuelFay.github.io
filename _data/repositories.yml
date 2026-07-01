@@ -1,6 +1,8 @@
 github_users:
   - ManuelFay
 
+repo_description_lines_max: 2
+
 github_repos:
   - illuin-tech/colpali
   - illuin-tech/vidore-benchmark
@@ -10,4 +12,3 @@ github_repos:
   - ManuelFay/ImageSearcher
   - ManuelFay/NumpyDeepLearning
   - CoderPat/croissant-llm-training
-
