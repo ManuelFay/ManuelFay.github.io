@@ -39,7 +39,7 @@ repo_trophies:
 # External service URLs for repository page.
 # These defaults match al-folio, but can be replaced with self-hosted instances.
 external_services:
-  github_readme_stats_url: https://github-readme-stats.vercel.app
+  github_readme_stats_url: https://github-stats-extended.vercel.app
   github_profile_trophy_url: https://github-profile-trophy.vercel.app
 
 # -----------------------------------------------------------------------------
