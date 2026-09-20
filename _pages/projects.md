@@ -19,7 +19,7 @@ nav_order: 2
       <div class="project-content">
         <p class="project-category">Visual document retrieval</p>
         <h2 id="project-colpali">ColPali &amp; ViDoRe</h2>
-        <p>Search documents directly from page images, preserving the tables, figures, and layouts that text extraction can miss. ColPali builds visual retrieval models; ViDoRe provides the benchmarks to evaluate them.</p>
+        <p>Retrieving documents through raw pixels. ColPali can see figures, tables, text and layout to find relevant information, quickly and accurately.</p>
         <nav class="project-links" aria-label="ColPali and ViDoRe resources">
           <a class="project-paper" href="https://arxiv.org/abs/2407.01449">Paper <span aria-hidden="true">&#8599;&#65038;</span></a>
           <a href="https://github.com/illuin-tech/colpali">Code <span aria-hidden="true">&#8599;&#65038;</span></a>
@@ -37,7 +37,7 @@ nav_order: 2
       <div class="project-content">
         <p class="project-category">Language model pretraining</p>
         <h2 id="project-croissant">CroissantLLM</h2>
-        <p>A 1.3B-parameter language model trained for both French and English. An open pretraining effort sharing the models, training code, and data to make bilingual language model research easier to reproduce.</p>
+        <p>Training a small language model in French and English from scratch. CroissantLLM brings bilingual capabilities to a compact 1.3B-parameter model, with open models, training code and data.</p>
         <nav class="project-links" aria-label="CroissantLLM resources">
           <a class="project-paper" href="https://arxiv.org/abs/2402.00786">Paper <span aria-hidden="true">&#8599;&#65038;</span></a>
           <a href="https://github.com/CoderPat/croissant-llm-training">Code <span aria-hidden="true">&#8599;&#65038;</span></a>
@@ -54,7 +54,7 @@ nav_order: 2
       <div class="project-content">
         <p class="project-category">Contextual embeddings · ConTEB &amp; InSeNT</p>
         <h2 id="project-context">Context is Gold</h2>
-        <p>Give each passage the context of its surrounding document. ConTEB tests retrieval when context matters, while InSeNT trains embeddings to use it through late chunking and in-sequence negative training.</p>
+        <p>Contextual document embeddings integrate surrounding context information to facilitate retrieval. ConTEB benchmarks this need, and InSeNT loss enables training embedding models to use surrounding information to find the right passage.</p>
         <nav class="project-links" aria-label="Context is Gold resources">
           <a class="project-paper" href="https://arxiv.org/abs/2505.24782">Paper <span aria-hidden="true">&#8599;&#65038;</span></a>
           <a href="https://github.com/illuin-tech/contextual-embeddings">Code <span aria-hidden="true">&#8599;&#65038;</span></a>
