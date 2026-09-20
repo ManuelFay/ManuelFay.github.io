@@ -1,0 +1,57 @@
+// A compact, typographic layout for talks and press references.
+.talks-page {
+  --talks-link: #2563a6;
+  --talks-muted: #606872;
+  line-height: 1.65;
+}
+html[data-theme='dark'] .talks-page {
+  --talks-link: #91c4ff;
+  --talks-muted: #b5bcc5;
+}
+.talks-page .talks-section {
+  margin: 0 0 2.75rem;
+  scroll-margin-top: 6rem;
+}
+.talks-page .talks-section h2 {
+  margin: 0 0 1.25rem;
+  padding-bottom: 0.65rem;
+  border-bottom: 1px solid var(--global-divider-color);
+  font-size: 1.25rem;
+  font-weight: 500;
+  letter-spacing: -0.015em;
+}
+.talks-page .talk-entry { margin-bottom: 1.6rem; }
+.talks-page .talk-entry:last-child { margin-bottom: 0; }
+.talks-page .talk-entry h3 {
+  margin: 0 0 0.4rem;
+  font-size: 1.05rem;
+  font-weight: 500;
+  line-height: 1.45;
+}
+.talks-page .talk-entry p {
+  margin: 0;
+  color: var(--talks-muted);
+  font-size: 0.94rem;
+}
+.talks-page a { color: var(--talks-link); text-underline-offset: 0.2em; }
+.talks-page a:hover { text-decoration: underline; }
+.talks-page a:focus-visible { outline: 2px solid var(--talks-link); outline-offset: 4px; }
+.talks-page .talk-recording { display: inline-block; margin-top: 0.35rem; font-size: 0.88rem; text-decoration: underline; }
+.talks-page .talks-coverage { margin: 0; }
+.talks-page .talks-coverage > div {
+  display: grid;
+  grid-template-columns: 10.5rem minmax(0, 1fr);
+  gap: 1.25rem;
+  margin-bottom: 1rem;
+  font-size: 0.94rem;
+}
+.talks-page .talks-coverage dt { font-weight: 500; }
+.talks-page .talks-coverage dd { margin: 0; }
+.talks-page .talks-note { color: var(--talks-muted); font-size: 0.85rem; }
+.talks-page .talks-footnote { margin: 1.25rem 0 0; color: var(--talks-muted); font-size: 0.9rem; }
+.talks-page .teaching-summary { list-style: none; padding: 0; margin: 0; font-size: 0.94rem; }
+.talks-page .teaching-summary li { margin-bottom: 0.6rem; }
+.talks-page .teaching-summary strong { font-weight: 500; }
+@media (max-width: 600px) {
+  .talks-page .talks-coverage > div { grid-template-columns: minmax(0, 1fr); gap: 0.15rem; margin-bottom: 1.15rem; }
+}
