@@ -8,7 +8,8 @@ middle_name:
 last_name: Faysse
 email: manuel [dot] faysse [at] centralesupelec [dot] fr
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  My PhD website with the latest news !
+  Manuel Faysse, Research Scientist at Google DeepMind working on Gemini pretraining.
+  Research in language models and visual document retrieval.
 footer_text: >
 keywords: academic-website, blog, nlp, phd, llm, ml  # add your own keywords or leave empty
 
@@ -66,9 +67,9 @@ max_width: 800px
 # Open Graph & Schema.org
 # -----------------------------------------------------------------------------
 # Display links to the page with a preview object on social media.
-serve_og_meta: false # Include Open Graph meta tags in the HTML head
+serve_og_meta: true # Include Open Graph meta tags in the HTML head
 serve_schema_org: false # Include Schema.org in the HTML head
-og_image: # The site-wide (default for all links) Open Graph preview image
+og_image: https://manuelfay.github.io/assets/img/prof_pic.jpg # Default social preview image
 
 # -----------------------------------------------------------------------------
 # Social integration
