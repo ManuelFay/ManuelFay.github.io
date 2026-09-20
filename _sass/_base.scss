@@ -1088,3 +1088,95 @@ nav[data-toggle="toc"] {
     padding-top: 0.5rem;
   }
 }
+
+// Talks, press, and teaching page.
+.talks-page {
+  line-height: 1.7;
+
+  .talks-jump-links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.65rem 1.4rem;
+    padding: 1rem 0;
+    margin: 1.5rem 0 2rem;
+    border-top: 1px solid var(--global-divider-color);
+    border-bottom: 1px solid var(--global-divider-color);
+    font-size: 0.95rem;
+  }
+
+  .talks-section {
+    margin-bottom: 3rem;
+    scroll-margin-top: 6rem;
+  }
+
+  h2 { margin-bottom: 1.4rem; }
+  h3 { font-size: 1.2rem; line-height: 1.45; }
+
+  .talks-grid {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 1.25rem;
+  }
+
+  .talks-card {
+    padding: 1.5rem;
+    border: 1px solid var(--global-divider-color);
+    border-radius: 0.65rem;
+    background: var(--global-card-bg-color);
+
+    ul { padding-left: 1.2rem; margin-bottom: 0; }
+    li + li { margin-top: 0.4rem; }
+  }
+
+  .talks-card-wide { grid-column: 1 / -1; }
+
+  .talks-eyebrow {
+    display: block;
+    margin-bottom: 0.65rem;
+    color: var(--global-theme-color);
+    font-size: 0.75rem;
+    font-weight: 600;
+    letter-spacing: 0.07em;
+    text-transform: uppercase;
+  }
+
+  .talks-press ul {
+    list-style: none;
+    padding: 0;
+
+    li {
+      padding: 1rem 0;
+      border-bottom: 1px solid var(--global-divider-color);
+    }
+    li:first-child { padding-top: 0; }
+  }
+
+  .talks-community {
+    margin-top: 1.75rem;
+    padding: 0.25rem 0 0.25rem 1.25rem;
+    border-left: 3px solid var(--global-theme-color);
+
+    p:last-child { margin-bottom: 0; }
+  }
+
+  .talks-courses {
+    columns: 2;
+    column-gap: 2rem;
+
+    li { break-inside: avoid; }
+    span { color: var(--global-text-color-light); }
+  }
+
+  #teaching-mentoring > h3 { margin-top: 1.75rem; }
+
+  a:focus-visible {
+    outline: 2px solid var(--global-theme-color);
+    outline-offset: 4px;
+  }
+
+  @media (max-width: 600px) {
+    .talks-grid { grid-template-columns: 1fr; }
+    .talks-card { padding: 1.15rem; }
+    .talks-courses { columns: 1; }
+  }
+}
