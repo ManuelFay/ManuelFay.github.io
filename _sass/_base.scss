@@ -1180,3 +1180,11 @@ nav[data-toggle="toc"] {
     .talks-courses { columns: 1; }
   }
 }
+.about-subtitle {
+  color: #2979c7;
+  font-size: 1.2rem;
+}
+
+html[data-theme='dark'] .about-subtitle {
+  color: #75baff;
+}

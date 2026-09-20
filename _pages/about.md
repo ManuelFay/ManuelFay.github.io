@@ -2,15 +2,12 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>On a latent space odyssey.</a>
+subtitle: <span class="about-subtitle">On a latent space odyssey.</span>
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
-  address: >
-    <p>PhD Candidate</p>
-    <p>Paris, France</p>
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
